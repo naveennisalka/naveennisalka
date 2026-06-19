@@ -1,7 +1,3 @@
-
-
-# Naveen Nishalka
-
 <table frame="void" rules="none" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <!-- Left Column: The Avatar Image -->
