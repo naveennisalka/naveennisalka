@@ -1,16 +1,19 @@
-## Hi there 👋
+# Naveen Nishalka / README.md
 
-<!--
-**naveennisalka/naveennisalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3U2dDZtdGVxYzBweGJzd2VyamtzbzJwenJ5cmRjcTZiajRxc3E5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y2hhXbTcJNAYsY2QWJ/giphy.gif" width="180" align="left" style="padding-right: 20px;" />
 
-Here are some ideas to get you started:
+## HELLO / ආයුබෝවන් / こんにちは 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building desktop architectures as the sun rises ☀️, wiring microcontrollers as the moon climbs 🌙
+
+**Electronics & Computer Science Student** @ University of Kelaniya
+
+![Views](https://komarev.com/ghpvc/?username=NaveenNishalka&color=blueviolet&style=flat-square)
+
+* ⚙️ I use daily `.cs` `.py` `.cpp` `.json` `.yaml` `.ino`
+* 🦀 Learning `rust` to build super sonic softwares
+* 🤖 Currently fine-tuning `TrOCR` models & building `Gym Management Systems`
+* 🎮 Uhhh, I play strategy games btw
+
+<br clear="left"/>
+
