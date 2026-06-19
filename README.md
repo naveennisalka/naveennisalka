@@ -2,7 +2,7 @@
 
 # Naveen Nishalka
 
-<table>
+<table frame="void" rules="none" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <!-- Left Column: The Avatar Image -->
     <td valign="top" width="180">
@@ -11,7 +11,7 @@
     <!-- Right Column: The Text Content -->
     <td valign="top" style="padding-left: 20px;">
       <h2>HELLO / ආයුබෝවන් / こんにちは 👋</h2>
-      <hr>
+      <br>
       <p>Building desktop architectures as the sun rises ☀️, wiring microcontrollers as the moon climbs 🌙</p>
       <p><strong>Electronics & Computer Science Student</strong> @ University of Kelaniya</p>
       <p><img src="https://komarev.com/ghpvc/?username=NaveenNishalka&color=blueviolet&style=flat-square" alt="Views"></p>
