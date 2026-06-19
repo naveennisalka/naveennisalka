@@ -6,7 +6,7 @@
     </td>
     <!-- Right Column: The Text Content -->
     <td valign="top" style="padding-left: 20px;">
-      <h2>HELLO / ආයුබෝවන් / こんにちは 👋</h2>
+      <h2>HELLO / ආයුබෝවන් / 안녕하세요 👋</h2>
       <br>
       <p>Building desktop architectures as the sun rises ☀️, wiring microcontrollers as the moon climbs 🌙</p>
       <p><strong>Electronics & Computer Science Student</strong> @ University of Kelaniya</p>
@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-* ⚙️ I use daily `.cs` `.py` `.cpp` `.json` `.yaml` `.ino`
+* ⚙️ I use daily `.cs` `.js` `.cpp` `.json` `.php` `.css`
 * 🦀 Learning `rust` to build super sonic softwares
 * 🤖 Currently fine-tuning `TrOCR` models & building `Gym Management Systems`
 * 🎮 Uhhh, I play strategy games btw
