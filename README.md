@@ -9,7 +9,7 @@
       <h2>HELLO / ආයුබෝවන් / 안녕하세요 👋</h2>
       <br>
       <p>Building desktop architectures as the sun rises ☀️, wiring microcontrollers as the moon climbs 🌙</p>
-      <p><strong>Electronics & Computer Science Student</strong> @ University of Kelaniya</p>
+      <p><strong>Electronics & Computer Science Student</strong> @University of Kelaniya</p>
       <p><img src="https://komarev.com/ghpvc/?username=NaveenNishalka&color=blueviolet&style=flat-square" alt="Views"></p>
     </td>
   </tr>
